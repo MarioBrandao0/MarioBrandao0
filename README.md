@@ -8,7 +8,7 @@ Eu sou <strong>Mario Guimarães.</strong>, <strong>Estou cursando Analise e Dese
 
 <div align="center">
 
-  <a href="mariorochedo329@gmail.com" alt="Gmail">
+  <a href="mailto:mariorochedo329@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
   <a href="https://www.linkedin.com/in/jose-mario-de-melo-brand%C3%A3o-guimar%C3%A3es-195864242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="Linkedin">
