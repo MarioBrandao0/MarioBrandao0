@@ -4,7 +4,7 @@
 Eu sou <strong>Mario Guimarães.</strong>, <strong>Estou cursando Analise e Desenvilvimentos de sistemas na Faculdade Senac pe</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>JavaScript, Python e MySQl</strong> 
-- 💬 Pergunte-me sobre: <strong>Sou apaixonado por jogos, estudar programação e leitura(principalmente livro de romances)</strong>
+- 💬 Pergunte-me sobre: <strong>Apaixonado por jogos, estudar programação e leitura(principalmente livro de romances)</strong>
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
 <div align="center">
