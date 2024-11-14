@@ -3,7 +3,7 @@
 # [Mário Guimarães]
 Eu sou <strong>Mario Guimarães.</strong>, <strong>Estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac pe</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>JavaScript, Python, MySQl e Figma</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>JavaScript, Python, MySQl, Kotlin</strong> 
 - 💬 Pergunte-me sobre: <strong> Jogos, programação e leitura(principalmente livros de romances)</strong>
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
