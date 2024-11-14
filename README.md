@@ -10,7 +10,7 @@ Eu sou <strong>Mario Guimarães.</strong>, <strong>Estou cursando Análise e Des
 <div align="center">
 
   <a href="https://www.linkedin.com/in/jose-mario-de-melo-brand%C3%A3o-guimar%C3%A3es-195864242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-brand%C3%A3o-195864242/" /></a>
 
 </div>
 
